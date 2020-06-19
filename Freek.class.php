@@ -30,5 +30,3 @@ $freek->geefEten($vogel);
 $freek->praat($vogel);
 $freek->brengNaarBed($vis);
 $freek->brengNaarBed($vogel);
-
-
